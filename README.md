@@ -1,24 +1,32 @@
-# Medieval Esoteric & Philosophy Library
+# Scholarly Library
 
-A curated collection of scholarly works on medieval magic, esoteric traditions, philosophy, and related historical texts.
+A curated collection of academic papers, research documents, and scholarly works spanning medieval history, contemporary research, and technical references.
 
-## Contents
+## Collections
 
-### Esoteric & Magic History
-- **Hagemeister_Menzel_New_Age_Russia_Esoteric.pdf** — New Age of Russia: Occult and Esoteric Dimensions (edited by Michael Hagemeister and Birgit Menzel)
-- **Medieval_Magic_Manuscripts_Central_Europe.pdf** — Unlocked Books: Manuscripts of Learned Magic in Medieval Libraries of Central Europe
-- **Rinotas_Niranj_Magic_Albert_the_Great.pdf** — Echoes of Niranj Magic in the Work of Albert the Great (by Athanasios Rinotas)
-- **Amulets_and_Talismans.pdf** — Amulets and Talismans (historical esoteric objects)
+### [Medieval Esoteric & Philosophy](./medieval-esoteric/)
+Scholarly works on medieval magic, esoteric traditions, philosophical history, and intellectual movements from antiquity through the early modern period.
 
-### Philosophy & Intellectual History
-- **Logika_Judaizers_Medieval_Hebrew_Philosophy.pdf** — Review: The Logika of the Judaizers - A Fifteenth-Century Ruthenian Translation from Hebrew (Moshe Taube)
-- **Contemplating_Eternity_Time_Ancient_India.pdf** — Contemplating Eternity: On Time, Death, and Timelessness in Ancient India
+- Occult and esoteric movements in Russia
+- Manuscripts of learned magic in Central European libraries
+- Medieval Arabic-influenced philosophy and Hebrew translation traditions
+- Astrological and talismanic traditions
+- Journal of Middle East Medievalists
 
-### Medieval Studies & Journals
-- **Al_Usur_Al_Wusta_Journal_2021_Middle_East_Medievalists.pdf** — AL-ʿUṢŪR AL-WUSṬĀ Vol. 29 (2021) - Journal of Middle East Medievalists
+### [Brushy Creek Impact Crater Research](./brushy-creek-research/)
+Peer-reviewed conference papers investigating the suspected Pleistocene impact crater in St. Helena Parish, Louisiana. Multi-year collaborative research program spanning geophysics, petrography, and planetary science analog studies.
 
-### Reference
-- **MIL-STD-100G_Engineering_Drawings.pdf** — Department of Defense Standard Practice for Engineering Drawings
+### [AI Safety & ML Research](./ai-safety-research/)
+Contemporary research on AI risk assessment, governance frameworks, and technical safety approaches.
+
+### [UAP/Anomalies Research](./uap-anomalies-research/)
+Peer-reviewed and scholarly investigations of unidentified anomalous phenomena, including environmental analysis and interdimensional hypotheses.
+
+### [Geophysics & Geology](./geophysics-geology/)
+Technical research on subsurface investigation methods, offshore engineering, and terrain analysis.
+
+### [Technical Standards & References](./technical-standards/)
+Engineering specifications, technical standards, and reference documentation.
 
 ---
 
